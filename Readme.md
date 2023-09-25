@@ -1,7 +1,3 @@
-Of course! Here's an updated version of the `README.md` to include information about support for Python 3.9 and 3.10:
-
----
-
 # Langflow Docker Image
 
 This Docker image encapsulates the `langflow` application, allowing users to run the application without needing to set up a local environment.
